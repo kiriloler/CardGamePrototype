@@ -1,0 +1,4 @@
+repository "CardGamePrototype@tj_kiriloler@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
